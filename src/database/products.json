@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1,
+    "name": "A100",
+    "type": "headphone",
+    "price": "400",
+    "description": "a brief description about the product",
+    "img": "https://images.unsplash.com/photo-1629317480860-3265288e62a8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGhlYWRwaG9uZXxlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60",
+    "secondaryImg": [
+      "https://images.unsplash.com/photo-1490476323407-63a2b2baa393?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGhlYWRwaG9uZXxlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1658198406843-29206c1b01a8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8aGVhZHBob25lfGVufDB8MHwyfHw%3D&auto=format&fit=crop&w=500&q=60"
+    ],
+    "features": ["noise-cancelling"]
+  },
+  {
+    "id": 2,
+    "name": "A200",
+    "type": "earphone",
+    "price": "100",
+    "description": "a brief description about the product",
+    "img": "https://images.unsplash.com/photo-1511025998370-7d59f82e9c8f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGhlYWRwaG9uZXxlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60",
+    "secondaryImg": [
+      "https://images.unsplash.com/photo-1658581087930-effb5cceb6c2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGhlYWRwaG9uZXxlbnwwfDB8Mnx8&auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1658761774475-fdb5a84e6101?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGhlYWRwaG9uZXxlbnwwfDB8Mnx8&auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1657532350710-d0becd0c680d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fGhlYWRwaG9uZXxlbnwwfDB8Mnx8&auto=format&fit=crop&w=500&q=60"
+    ],
+    "features": ["noise-cancelling"]
+  },
+
+  {
+    "id": 3,
+    "name": "A300",
+    "type": "earphone",
+    "price": "200",
+    "description": "a brief description about the product",
+    "img": "https://images.unsplash.com/photo-1557063673-0493e05da49f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8aGVhZHBob25lfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "secondaryImg": [
+      "https://images.unsplash.com/photo-1633419089775-61072af2a2a4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTI2fHxoZWFkcGhvbmV8ZW58MHwwfDJ8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    ],
+    "features": []
+  },
+  {
+    "id": 4,
+    "name": "A400",
+    "type": "headphone",
+    "price": "50",
+    "description": "a brief description about the product",
+    "img": "https://images.unsplash.com/photo-1574494461754-de04dc403eec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGhlYWRwaG9uZXxlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60",
+    "secondaryImg": [
+      "https://images.unsplash.com/photo-1658874380130-9259e202b4ea?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aGVhZHBob25lfGVufDB8MHwyfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1657223143975-d29d7959a70f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fGhlYWRwaG9uZXxlbnwwfDB8Mnx8&auto=format&fit=crop&w=500&q=60"
+    ],
+    "features": ["noise-cancelling", "gaming"]
+  },
+  {
+    "id": 5,
+    "name": "A600",
+    "type": "headphone",
+    "price": "60",
+    "description": "a brief description about the product",
+    "img": "https://images.unsplash.com/photo-1613040809024-b4ef7ba99bc3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8aGVhZHBob25lfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "secondaryImg": [
+      "https://images.unsplash.com/photo-1655628143563-a4b1c60de33d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDh8fGhlYWRwaG9uZXxlbnwwfDB8Mnx8&auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1655628143766-172ca2198096?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTF8fGhlYWRwaG9uZXxlbnwwfDB8Mnx8&auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1655628143559-d6ab5a201c9c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTB8fGhlYWRwaG9uZXxlbnwwfDB8Mnx8&auto=format&fit=crop&w=500&q=60"
+    ],
+    "features": ["noise-cancelling", "phone-calling"]
+  }
+]
