@@ -98,11 +98,20 @@ const ProductDetail = () => {
       </div>
       <div className="product-detail-comments-container">
         <h2>Users Comments</h2>
-        <div className="product-detail-comments">AAAA</div>
-        <div className="product-detail-comments">BBBB</div>
-        <div className="product-detail-comments">CCCC</div>
-        <div className="product-detail-comments">DDDD</div>
-        <button className="product-detail-comments">+</button>
+        {productData[0].comment.map((comment) => {
+          return (
+            <>
+              <div className="product-detail-comments">
+                <div className="product-detail-comments-content">
+                  {comment.content}
+                </div>
+                <div className="product-detail-comments-from">
+                  From user: {comment.from}
+                </div>
+              </div>
+            </>
+          );
+        })}
       </div>
     </>
   );
